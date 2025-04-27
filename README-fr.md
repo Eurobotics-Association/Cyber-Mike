@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://github.com/Eurobotics-Association/Cyber-Mike/blob/main/README.md">🇬🇧 English Version</a>
+</p>
+
 # Cyber-Mike – Présentation du Projet
 
 **Cyber-Mike** est un agent de cybersécurité intelligent, conçu pour les **non-spécialistes** — familles, commerçants, petites et moyennes entreprises (PME) et associations. Il fournit des informations claires et exploitables sur les réseaux et les équipements, en s'appuyant sur des outils open-source de cybersécurité reconnus.
