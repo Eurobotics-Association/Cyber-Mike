@@ -12,8 +12,6 @@
 - **Provide Preemptive Guidance** – Give alerts and advice before incidents occur.
 - **Build Cyber Literacy** – Educate users with natural language reports and learning tools.
 
-> *This project is supported by Eurobotics, non-profit French Association Loi 1901 – contact@eurobotics.org*
-
 ---
 
 ## 🤖 What is Cyber-Mike?
@@ -40,7 +38,8 @@ It does **not** replace enterprise cybersecurity teams or certifications, but se
 
 ## ⚙️ Tech Stack & Spirit
 
-- Open-source backend tools
+- Open-source backend tools (ntopng, suricata, etc...)
+- Front-end tools: multimodal relational AI agent (voice, text, email via Telegram, ChatGPT, etc.)
 - Real-time orchestration via `n8n`
 - LLM integration (OpenAI, local fallback)
 - Optional decentralized hosting via FluxOS
@@ -78,3 +77,5 @@ Designed for ISPs, telcos, and MSSPs to:
 - Standardize insights across clients
 - Improve NIS2 compliance
 - Reduce client-side breach risks
+
+
