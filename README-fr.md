@@ -28,11 +28,11 @@ Cyber-Mike est un agent expert connecté à :
 - `Wazuh` pour la sécurité des hôtes
 - `Suricata` pour la détection d'intrusions
 - `CrowdSec` pour la réputation collaborative
-- Orchestré via `n8n`
+- Orchestré via `n8n` / `LangChain` 
 
 Il communique via :
 
-- ChatGPT / OpenAI Operator / MCP
+- ChatGPT / OpenAI Operator / MCP / autres Chats
 - Interface web, e-mail, Telegram
 
 Cyber-Mike fournit :
