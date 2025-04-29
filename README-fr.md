@@ -49,10 +49,10 @@ Cyber-Mike ne remplace **pas** les équipes de cybersécurité d'entreprise, mai
 
 - Outils back-end open-source
 - Outils front-end : agent IA relationnel multimodal (voix, texte, email via Telegram, ChatGPT, etc.)
-- Orchestration en temps réel via `n8n`
-- Intégration LLM (OpenAI, fallback local)
+- Orchestration en temps réel via `n8n` / `LangChain`
+- Intégration LLM (OpenAI, fallback local, autres LLM)
 - Option d'hébergement décentralisé via FluxOS
-- Installation automatique via Docker avec paramétrage guidé par IA pour simplifier la configuration utilisateur
+- Installation automatique via Docker avec paramétrage guidé par IA pour simplifier les paramètrages et la configuration utilisateur
 - Mode local d'urgence sans connexion Internet
 - Déployable massivement par les FAI, opérateurs télécoms ou MSSP pour protéger leurs clients
 
