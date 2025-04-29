@@ -41,7 +41,8 @@ Cyber-Mike fournit :
 - Des rapports automatisés et tableaux de bord
 - Des recommandations d'escalade (ex : "contacter un professionnel")
 
-Cyber-Mike ne remplace **pas** les équipes de cybersécurité d'entreprise, mais sert de **pont** pour un soutien quotidien, et peut également **accompagner** les **passionnés** de technologie et **utilisateurs avancés** dans leur démarche de sécurisation.
+Cyber-Mike ne remplace **pas** les équipes de cybersécurité d'entreprise, mais sert de **pont** pour un soutien quotidien, et peut également accompagner les passionnés de technologie et utilisateurs avancés dans leur démarche de sécurisation.
+
 ---
 
 ## ⚙️ Architecture & Esprit Technique
