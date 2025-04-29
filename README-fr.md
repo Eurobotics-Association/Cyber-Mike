@@ -11,10 +11,10 @@
 ## 🌟 Objectifs
 
 - **Soutien Cyber pour les Vulnérables** – Aider les personnes et structures sans compétences en cybersécurité.
-- **Rendre la Cyber Simple** – Traduire les concepts complexes en langage courant.
+- **Fournir une Interface IA Multimodale** – Installer, paramétrer et exploiter des outils cyber complexes, et restituer aux utilisateurs des rapports et conseils clairs via la voix, Telegram, email.
+- **Simplifier et Développer la Culture Cyber** – Traduire les concepts complexes et renforcer la compréhension des utilisateurs.
 - **Autonomiser sans Submerger** – Laisser les experts traiter la complexité, tout en informant les utilisateurs.
 - **Offrir un Soutien Préventif** – Donner des alertes et des conseils avant les incidents.
-- **Développer la Culture Cyber** – Sensibiliser par des rapports simples et des outils pédagogiques basés sur le langage naturel.
 
 >
 
