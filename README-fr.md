@@ -54,19 +54,26 @@ Cyber-Mike ne remplace **pas** les équipes de cybersécurité d'entreprise, mai
 - Option d'hébergement décentralisé via FluxOS
 - Installation automatique via Docker avec paramétrage guidé par IA pour simplifier les paramètrages et la configuration utilisateur
 - Mode local d'urgence sans connexion Internet
-- Déployable massivement par les FAI, opérateurs télécoms ou MSSP pour protéger leurs clients
+- Déploiement facilité pour les non-informaticiens, utilisateurs individuels, associations, PME
+- Déploiement physique possible via un dongle Raspberry Pi Ethernet/PoE
+- Mode local d'urgence sans connexion Internet
+- Déployable massivement par les FAI ou opérateurs télécoms pour protéger leurs abonnés particuliers
 
 Cyber-Mike n'est *pas* :
 
 - Une solution miracle
 - Un outil GRC
 - Un kit d'investigation judiciaire
+- Une solution intégré anti-virus
+- Un ingénieur en cyber
 
 Cyber-Mike est :
 
 - Un intermédiaire intelligent
 - Un analyste cyber amical pour foyers, commerces, petites structures
-- Un assistant de connaissance
+- Un assistant de connaissance et d'aide à la décision
+- Une interface intelligente entre vous et des outils cybers
+- Un outil qui pemet de fournir les élements minimums détaillés nécessaires à un professionnel de la cyber pour vous aider
 
 ---
 
@@ -83,17 +90,19 @@ Cyber-Mike est :
 
 **Cyber-Mike est une couche d'intelligence cyber abordable, conçue pour s'étendre à des millions d'utilisateurs vulnérables.**
 
-Déployable par les FAI, opérateurs télécoms et MSSP souhaitant :
+Déployable par les FAI et opérateurs télécoms souhaitant :
 
-- Offrir une protection avancée directement chez leurs clients
+- Offrir une protection avancée directement chez leurs abonnés et gérée par les abonnés
 - Standardiser les alertes et analyses
-- Améliorer la conformité NIS2
-- Réduire les risques de compromission chez les clients
+- Réduire les risques de compromission chez les abonnés particuliers
+- Réduire les propagations nocives de malware et autre botnets
+- Améliorer la conformité réglementaire NIS2 pour les FAI et opérateurs
+
 
 ---
 
 ## 🤝 Soutien du Projet
 
-Projet soutenu par **Eurobotics**, association loi 1901 – [contact@eurobotics.org](mailto:contact@eurobotics.org)  
+Projet initié et soutenu par **Eurobotics**, association loi 1901 – [contact@eurobotics.org](mailto:contact@eurobotics.org)  
 **Eurobotics**, Association Loi 1901, RNA W603008100, Compiègne, France
 
